@@ -4,11 +4,4 @@ asyncpg
 pydantic
 
 
-# | Layer    | Responsibility |
-# | -------- | -------------- |
-# | ENV      | Config         |
-# | Database | Connection     |
-# | Model    | Table          |
-# | Schema   | Validation     |
-# | Route    | API            |
-# | Helper   | Reusable logic |
+
