@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "DATABASE_URL": "postgresql+asyncpg://hrm_user:hrm_password@localhost:5433/hrm"
-  }
-}
